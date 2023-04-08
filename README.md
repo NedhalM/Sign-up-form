@@ -19,8 +19,6 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -36,12 +34,12 @@ Users should be able to:
 
 ### Screenshot
 
-image.png
+![Alt text](design/solution.JPG?raw=true "Optional Title")
 
 ### Links
 
 - Solution URL: https://github.com/NedhalM/Sign-up-form
-- Live Site URL:
+- Live Site URL: https://nedhalm.github.io/Sign-up-form/
 
 ## My process
 
