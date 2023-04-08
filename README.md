@@ -35,13 +35,13 @@ Users should be able to:
   - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say _"Looks like this is not an email"_
 
 ### Screenshot
+![Alt text](design/solution.JPG?raw=true "Optional Title")
 
-image.png
 
 ### Links
 
 - Solution URL: https://github.com/NedhalM/Sign-up-form
-- Live Site URL:
+- Live Site URL: https://nedhalm.github.io/Sign-up-form/
 
 ## My process
 
