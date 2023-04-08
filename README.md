@@ -33,12 +33,8 @@ Users should be able to:
   - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say _"Looks like this is not an email"_
 
 ### Screenshot
-![Alt text](design/solution.JPG?raw=true "Optional Title")
 
-<<<<<<< HEAD
 ![Alt text](design/solution.JPG?raw=true "Optional Title")
-=======
->>>>>>> 50597f365744894de6e7ad417ce8a95aa9689b8b
 
 ### Links
 
