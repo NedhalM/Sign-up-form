@@ -112,6 +112,9 @@ input {
   justify-content: center;
   align-items: center;
 }
+#button:hover {
+  background-color: hsl(154, 86%, 61%);
+}
 .terms {
   display: flex;
   justify-content: center;
